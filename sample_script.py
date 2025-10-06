@@ -25,4 +25,9 @@ def main():
     print("Script finished.")
 
 if __name__ == "__main__":
+
     main()
+
+
+def hello_world():
+    return "Hello World!"
